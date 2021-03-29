@@ -1,3 +1,3 @@
 # Homework
-Univeristy Honeworks
+Univeristy Homeworks
 
