@@ -1,8 +1,8 @@
 import pandas as pd
 
 
-df = pd.read_csv('Sample100.csv')
-
+#df = pd.read_csv('Sample100.csv')
+df = pd.read_csv('text.txt')
 print(df.to_string())
 
 

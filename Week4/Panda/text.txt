@@ -1,1 +1,4 @@
 ky eshte nje text i thjeshte qe: do ta : perdorim per kete testim te cvs
+
+1 Emri mbiemri id
+1 ibrahim thaqi
