@@ -1,3 +1,9 @@
+#simple cvs file writen on txt file
+#first like goes head than datas
+Emri, Mbiemri, Puna, Mosha , Id
+IBRAHIM, THAQI, IT, 24, 1243336704
+Elma, thaqi, nurse, 22, 1233331234
+
 
 #This text is test
 Serial Number,Company Name,Employee Markme,Description,Leave
