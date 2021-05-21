@@ -10,7 +10,7 @@ for i in s:
 
 #other way if we want to display without html tags
 for s in soup.find_all('h4', {'class':'name'}):
-    print(str(s)[17:][0:-5])
+    print(str(s)[17:][0:-5]) #you can eaisly use [17:-5] in same [] to remove before and after
 
 
     #or
