@@ -1,14 +1,14 @@
 import pandas as pd
 
 
-#df = pd.read_csv('Sample100.csv')
-df = pd.read_csv('text.txt')
+#df = pd.read_csv('Sample100.csv') #takes cvs file
+df = pd.read_csv('text.txt') #takes txt file
 print(df.to_string())
 
 
 
 #-----------------
-import pandas as pd
+import pandas as pd 
 mydataset = {
   'cars':
       ["BMW", "Volvo", "Ford"],
