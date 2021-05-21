@@ -6,7 +6,7 @@ text = requests.get(url).text
 soup = BeautifulSoup(text,'lxml') #or instead of lxml == html.parser
 s = soup.find_all('h4', {'class':'name'})
 for i in s:
-    print(i)
+    print(i) # if we add i.text would display only text inside h4 tag
 
 #other way if we want to display without html tags
 for s in soup.find_all('h4', {'class':'name'}):
@@ -15,9 +15,9 @@ for s in soup.find_all('h4', {'class':'name'}):
 
     #or
 
-url = "https://kuvendikosoves.org/shq/deputetet/"
-html = requests.get(url).text
-soup = BeautifulSoup(html, 'html5lib')
-p = soup.find_all('h4', {'class': 'name'})
-for i in p:
-    print(i)
+# url = "https://kuvendikosoves.org/shq/deputetet/"
+# html = requests.get(url).text
+# soup = BeautifulSoup(html, 'html5lib')
+# p = soup.find_all('h4', {'class': 'name'})
+# for i in p:
+#     print(i)
