@@ -1,0 +1,13 @@
+
+Emri, Mbiemri, Puna, Mosha , Id
+IBRAHIM, THAQI, IT, 24, 1243336704
+IBRAHIM, THAQI, IT, 24, 1243336704
+
+
+
+
+
+ky eshte nje text i thjeshte qe: do ta : perdorim per kete testim te cvs
+
+1 Emri mbiemri id
+1 ibrahim thaqi
