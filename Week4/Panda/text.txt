@@ -3,6 +3,8 @@
 Emri, Mbiemri, Puna, Mosha , Id
 IBRAHIM, THAQI, IT, 24, 1243336704
 Elma, thaqi, nurse, 22, 1233331234
+ , THAQI, IT, 24, 1243336704 #without name , will display NaN, if we dont use , id would be NaN
+
 
 
 #This text is test
